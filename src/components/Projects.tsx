@@ -1,11 +1,12 @@
 import React from 'react';
 import { Github } from 'lucide-react';
+import image from '/src/assets/image.png';
 
 const Projects = () => {
   const project = {
     title: 'Voice Cloner & Text to Speech',
     description: 'My web application allows users to input text and receive high-quality audio output in a selected voice sample—with options to listen or download the result.',
-    image: '/src/assets/image.png',
+    image: image,
     tech: ['Python', 'JavaScript', 'HTML', 'CSS'],
     githubUrl: 'https://github.com/Jhnv07/Voice-Cloner-and-TTS'
   };
