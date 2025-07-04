@@ -47,7 +47,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold text-white">Connect</h4>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/Jhnv07/Jhnv07"
+                href="https://github.com/Jhnv07"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-rose-400 transition-colors p-2 rounded-lg hover:bg-red-950"

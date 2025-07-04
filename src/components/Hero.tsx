@@ -84,7 +84,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex justify-center space-x-6 mt-8">
               <a
-                href="https://github.com/Jhnv07/Jhnv07"
+                href="https://github.com/Jhnv07"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-rose-400 transition-colors p-3 rounded-full hover:bg-rose-950/50"
